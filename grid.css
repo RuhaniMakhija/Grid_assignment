@@ -24,8 +24,6 @@ body{
     display: grid;
     grid-template-columns: repeat(3, 350px);
     grid-gap: 20px;
-    
-    
 }
 img{
     border: 3px solid cyan;
